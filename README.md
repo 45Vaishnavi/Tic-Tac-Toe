@@ -63,15 +63,10 @@ g++ tictactoe.cpp -o tictactoe
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 Developed by Vaishnavi
+
 A simple and fun C++ project for beginners to understand game logic, AI basics, and terminal interaction.
 
 ---
